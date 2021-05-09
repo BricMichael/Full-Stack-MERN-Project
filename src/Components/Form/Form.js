@@ -57,7 +57,7 @@ const Form = ({ currentId, setcurrentId }) => {
                 />
                 {/* 4 textField */}
                 <TextField name='tags' variant='outlined' label='Tags' fullWidth value={postData.tags} 
-                onChange={(e) => setPostData({ ...postData, tags: e.target.value })}
+                onChange={(e) => setPostData({ ...postData, tags: e.target.value.split(',') })}
                 />
                 <div className={classes.fileInput}>
                     <FileBase type='file' multiple={false} onDone={({base64}) => setPostData({...postData, selectedFile: base64})}
