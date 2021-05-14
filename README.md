@@ -1,5 +1,29 @@
-Full-Stack-MERN-Project.
+<h1 align="center">App Memories Full Stack MERN</h1>
 
-Desing by MichaelBric.
+<div align="center">
+   Testing my knowledge in React and Node <a href="https://adoring-wozniak-8207f4.netlify.app/">Link Application</a>.
+</div>
 
- La aplicación se llama "Memories" y es una  aplicación MERN de redes sociales que permite a los usuarios publicar eventos interesantes que sucedieron en sus vidas.
+<div align="center">
+   <h2>Programadores</h2> 
+  <h3>
+    <span> | </span>
+    <a href="https://github.com/BricMichael">
+      Michael
+    </a>  
+  </h3>
+</div>
+
+## Acerca del Proyecto
+
+![screenshot](https://raw.githubusercontent.com/BricMichael/Images-Projects/master/GoogleCap.png)
+
+#English
+Application with React, Node.js, Express and MongoDB. MERN Full Stack project completed. The application is called "Memories" and it is a social media application from MERN that allows users to post interesting events that happened in their lives.
+
+#Spanish
+Aplicación con React, Node.js, Express y MongoDB. Proyecto MERN Full Stack completado. La aplicación se llama "Memories" y es una aplicación de redes sociales de MERN que permite a los usuarios publicar eventos interesantes que sucedieron en sus vidas.
+
+## Contact Dev
+
+- MichaelBric [Dev](https://codepen.io/MichaelBricDev)
