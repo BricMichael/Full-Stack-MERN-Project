@@ -1,20 +1,19 @@
 <h1 align="center">App Memories Full Stack MERN</h1>
 
 <div align="center">
-   Testing my knowledge in React and Node <a href="https://adoring-wozniak-8207f4.netlify.app/">Link Application</a>.
+   Testing my knowledge in React and Node <a href="https://memoriesappp.netlify.app/">Link Application</a>.
 </div>
 
 <div align="center">
-   <h2>Programadores</h2> 
+   <h2>Programador</h2> 
   <h3>
-    <span> | </span>
     <a href="https://github.com/BricMichael">
       Michael
     </a>  
   </h3>
 </div>
 
-## Acerca del Proyecto
+## About the Project
 
 ![screenshot](https://raw.githubusercontent.com/BricMichael/Images-Projects/master/GoogleCap.png)
 
